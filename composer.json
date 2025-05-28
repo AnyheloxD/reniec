@@ -1,0 +1,14 @@
+{
+    "name": "anyhelo/reniec",
+    "description": "",
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0-or-later",
+    "require": {
+        "reniec/idaas": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "ReniecIdaasAuth\\": "inc/"
+        }
+    }
+}

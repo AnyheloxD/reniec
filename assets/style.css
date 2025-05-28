@@ -1,0 +1,18 @@
+.reniec_boton {
+  background: #c03838;
+  padding: 20px 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin: 0 auto;
+  height: 45px;
+  border-radius: 10px;
+  color: #fff !important;
+}
+.reniec-auth-wrapper {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
